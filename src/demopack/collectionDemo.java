@@ -28,8 +28,9 @@ public class collectionDemo {
 					} } 
 				
 				System.out.println(a[i]); 
-				
-				
+				System.out.println("This is a pull request 1");
+				System.out.println("This is a pull request 2");
+				System.out.println("This is a pull request 3");
 				
 				if(k==1) 
 					System.out.println(a[i]+"is unique number"); } } }
