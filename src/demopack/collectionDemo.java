@@ -28,10 +28,7 @@ public class collectionDemo {
 					} } 
 				
 				System.out.println(a[i]); 
-				System.out.println(a[i]); 
-				System.out.println(a[i]); 
-				System.out.println(a[i]); 
-				System.out.println(a[i]); 
+				
 				
 				
 				if(k==1) 
